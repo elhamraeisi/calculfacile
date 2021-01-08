@@ -3,8 +3,14 @@
     <div class="only-on-mob">
       <v-app-bar elevate-on-scroll absolute class="blue">
         <v-app-bar-nav-icon @click.stop="drawer = !drawer" color="white"></v-app-bar-nav-icon>
-        <a href="http://localhost:8080/">
-          <v-img src="./assets/logo/calculLogo.png" max-height="25" max-width="240" alt="Logo" />
+        <a href="/">
+          <v-img
+            src="./assets/logo/calculLogo.png"
+            max-height="45"
+            max-width="140"
+            alt="Logo"
+            class="ml-4"
+          />
         </a>
       </v-app-bar>
       <v-navigation-drawer v-model="drawer" absolute temporary>
@@ -39,8 +45,14 @@
 
     <div class="only-on-desc">
       <v-app-bar app fixed elevate-on-scroll class="blue">
-        <a href="http://localhost:8080/">
-          <v-img src="./assets/logo/calculLogo.png" max-height="25" max-width="240" alt="Logo" />
+        <a href="/">
+          <v-img
+            src="./assets/logo/calculLogo.png"
+            max-height="45"
+            max-width="140"
+            alt="Logo"
+            class="mx-6"
+          />
         </a>
         <v-menu open-on-hover offset-y bottom transition="slide-y-transition">
           <template v-slot:activator="{ on, attrs }">
@@ -179,10 +191,7 @@
     <v-footer class="blue">
       <v-col cols="12" class="text-center text-white py-2">
         © 2021 Copyright:
-        <a
-          class="text-white align-content-center"
-          href="https://facilecalcul.com/"
-        >facile-calcul.com</a>
+        <a class="text-white align-content-center" href="/">easycalcul.fr</a>
       </v-col>
     </v-footer>
   </v-app>

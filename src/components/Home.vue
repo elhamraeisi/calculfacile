@@ -1,7 +1,7 @@
 <template>
   <v-container grid-list-md>
     <h1 class="font-weight-bold p-4">Calculatrices Simples et Gratuites</h1>
-    <v-layout row>
+    <v-layout row wrap>
       <v-flex v-for="item in items" :key="item.title" xs12 sm6 md3>
         <v-hover v-slot="{ hover }">
           <v-card
