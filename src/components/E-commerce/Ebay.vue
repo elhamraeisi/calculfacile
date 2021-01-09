@@ -117,7 +117,7 @@ export default {
     fraisEbay() {
       return -Math.abs(
         ((this.prixDeVente * 1 + this.fraisDePort * 1) * 8) / 100
-      );
+      ).toFixed(2);
     },
     fraisPaypal() {
       let resultat =
