@@ -62,7 +62,7 @@
           </v-row>
           <v-row class="my-1">
             <v-col sm="6" class="col text-left">
-              <h5 for="input-none">Rakuten vous versera</h5>
+              <h5 for="input-none">Total bénéfice</h5>
             </v-col>
             <v-col sm="6" class="col text-right">
               <div v-if="parseFloat(totalProfit()) > 0.0">
