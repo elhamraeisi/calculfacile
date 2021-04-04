@@ -65,6 +65,14 @@
             </v-col>
           </v-row>
         </v-card>
+        <h5 class="text-left mt-12">REMARQUES</h5>
+        <p class="text-left">
+          &#8226; Avant toute chose sachez que les frais Paypal sont toujours à la charge de la personne qui reçoit le paiement (le vendeur). Mais notre calculatrice permet également de calculer la somme à payer par l’acheteur si le vendeur souhaite faire payer les frais Paypal à ce dernier.
+          <br />&#8226; La commission est composée d’un montant fixe (0,35€) et d’un pourcentage de la somme totale (2,9%). A noter que pour un vendeur pro ce pourcentage peut diminuer s’il réalise un chiffre d’affaire supérieur à 2500€ par mois.
+        </p>
+        <p
+          class="text-left mt-6"
+        >PayPal est une entreprise américaine offrant un système de service de paiement en ligne dans le monde entier. La plateforme sert d'alternative au paiement par chèque ou par carte bancaire. Le site opère comme étant un procédé de paiement pour les sites de commerce électronique, les enchères ainsi que d'autres utilisations commerciales pour lesquelles ils perçoivent une redevance en échange de bénéfices tel qu'une transaction en un clic et un enregistrement d'un mot de passe. Le système de paiement PayPal, aussi appelé PayPal, est considéré comme étant une plateforme de paiement.</p>
       </v-col>
     </v-row>
   </v-container>

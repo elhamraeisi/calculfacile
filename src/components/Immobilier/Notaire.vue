@@ -45,6 +45,9 @@
             </v-col>
           </v-row>
         </v-card>
+        <p
+          class="text-left mt-10"
+        >Appelés à tort frais de notaire, les frais d’achat d’un bien immobilier sont majoritairement composés de taxes collectées par le notaire pour le compte de l’Etat. Cet outil de calcul vous permet d’estimer rapidement et pour la plupart des situations le montant de ces frais d’acquisition immobiliers et de comprendre leur répartition entre les taxes pour l’Etat et la rémunération réelle du notaire.</p>
       </v-col>
     </v-row>
   </v-container>

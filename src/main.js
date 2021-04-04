@@ -18,6 +18,9 @@ import Home from './components/Home.vue'
 
 import VueRouter from 'vue-router';
 import vuetify from './plugins/vuetify';
+import Ads from 'vue-google-adsense'
+Vue.use(require('vue-script2'))
+Vue.use(Ads.Adsense)
 Vue.use(VueRouter);
 
 require('./assets/style/style.css');

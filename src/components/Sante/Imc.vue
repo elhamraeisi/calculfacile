@@ -64,6 +64,23 @@
             />
           </div>
         </v-card>
+        <p
+          class="text-left mt-8"
+        >L'indice de masse corporelle (IMC) est un indicateur plus fiable que le poids pour évaluer votre corpulence. Homme ou femme, calculez en un clic votre IMC et découvrez sa signification selon la classification de l'Organisation mondiale de la santé (OMS).</p>
+        <h5 class="text-left mt-4">Calculez votre Indice de Masse Corporelle (IMC) homme ou femme</h5>
+        <p class="text-left">
+          L'indice de masse de corporelle est un indice permettant d’évaluer les risques pour la santé liés au surpoids ou à la maigreur.
+          <br />
+          <br />Car le poids seul ne suffit pas à diagnostiquer une obésité, un surpoids ou une maigreur excessive : ce n'est pas la même chose que de faire 90 kilos si l'on fait 1m50 ou 1m 90...
+        </p>
+        <h5 class="text-left mt-4">Comment calculer l'IMC ?</h5>
+        <p class="text-left">
+          L'indice de masse corporelle est calculé en divisant le poids par la taille au carré. L'Organisation mondiale de la santé a défini cet indice comme le standard permettant d'identifier es problèmes de poids.
+          <br />
+          <br />Grâce à des études, des seuils ont ensuite été établis pour évaluer les zones à risque, notamment de maladies cardiovasculaires.
+          <br />
+          <br />L'IMC est une méthode fiable pour les femmes et hommes adultes de 18 à 65 ans, mais ne peut pas être utilisée telle quelle pour les femmes enceintes ou qui allaitent, les seniors, les athlètes d'endurance ou les personnes très musclées.
+        </p>
       </v-col>
     </v-row>
   </v-container>
