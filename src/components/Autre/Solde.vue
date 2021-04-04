@@ -60,6 +60,9 @@
             </v-col>
           </v-row>
         </v-card>
+        <p
+          class="text-left mt-8"
+        >Cette calculatrice vous permet de calculer un prix soldé, une remise en euro ou en pourcentage, de calculer un pourcentage d'une somme, et enfin de connaître le prix non soldé.</p>
       </v-col>
     </v-row>
   </v-container>

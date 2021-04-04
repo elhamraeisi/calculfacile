@@ -77,6 +77,15 @@
             </v-col>
           </v-row>
         </v-card>
+        <p class="text-left mt-12">
+          Cette calculatrice de EasyCalcul vous permet de calculer les frais de vente sur Rakuten lorsque vous voulez vendre un produit sur Rakuten. Ainsi, en fonction du prix de vente souhaité pour votre objet et des frais de port, vous pourrez obtenir votre gain net à la fin de la vente.
+          <br />&#8226; La création des annonces sur Rakuten est 100% gratuite et illimitée pour toutes les catégories du site.
+          <br />&#8226; Les frais Rakuten incluent uniquement la commission sur le prix final qui est composée d’un montant fixe et d’une partie variable calculée par tranches.
+          <br />&#8226; Depuis 2015, les vendeurs sur Rakuten peuvent proposer PayPal comme mode paiement (sera bientôt intégré dans notre calculateur).
+          <br />&#8226; Rakuten ne permet pas au vendeur de déterminer les frais de port, c’est le site qui fixe le montant des frais de port en fonction des tarifs postaux en vigueur.
+          <br />&#8226; En compensation, Rakuten reverse au vendeur un montant forfaitaire pour compenser ses frais de livraison selon le type de produit.
+          <br />&#8226; A noter que les modes de livraison “So Colissimo”, “Mondial Relay” et “Chronopost” sont gratuits pour les vendeurs qui les proposent grâce au partenariat entre Rakuten et ces transporteurs.
+        </p>
       </v-col>
     </v-row>
   </v-container>

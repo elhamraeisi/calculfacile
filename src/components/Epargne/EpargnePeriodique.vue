@@ -77,6 +77,9 @@
             </v-col>
           </v-row>
         </v-card>
+        <p
+          class="text-left mt-10"
+        >L’épargne est une sécurité financière qui se retrouve aujourd’hui au cœur des préoccupations des français. Dans un contexte économique incertain où chacun peut voir son niveau de vie largement réduit suite à un événement majeur, savoir que l’on pourra compter sur une certaine somme d’argent est plutôt rassurant. C’est aussi un moyen de se constituer un complément à une pension de retraite qui diminue telle une peau de chagrin au fil des gouvernements. Plus positivement, l’épargne est aussi primordiale pour tous les projets de la vie. Alors pour savoir où vous en êtes dans vos placements, ou pour déterminer où épargner, tournez-vous vers un simulateur d’épargne.</p>
       </v-col>
     </v-row>
   </v-container>

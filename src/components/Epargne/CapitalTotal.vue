@@ -78,6 +78,12 @@
             </v-col>
           </v-row>
         </v-card>
+        <h5 class="text-left mt-10">A lire avant d'effectuer vos calculs :</h5>
+        <p class="text-left">
+          &#8226; Le calcul est effectué en supposant que vous capitalisez les revenus annuels de vos placements, c'est-à-dire qu’ils sont automatiquement transformés en épargne supplémentaire. C’est ce qui se passe lorsque vous souscrivez par exemple un contrat d’assurance vie ou un Plan d’Epargne Retraite Populaire (PERP). Vérifiez que cela s’applique bien au type d’épargne que vous envisagez d’effectuer.
+          <br />
+          <br />&#8226; Le rendement annuel moyen que vous pouvez espérer est variable selon le type de placement effectué. C’est une information qu’il faut chercher et qui est rarement sûre à 100 % pour la durée du placement. L’information souvent fournie est le rendement annuel brut.
+        </p>
       </v-col>
     </v-row>
   </v-container>

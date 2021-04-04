@@ -51,6 +51,26 @@
             </v-col>
           </v-row>
         </v-card>
+        <h5 class="text-left mt-8">Que signifie TVA?</h5>
+        <p
+          class="text-left"
+        >Cet impôt est la taxe sur la valeur ajoutée. Il est indirect et n'est payé que par les consommateurs. Les collecteurs de cette taxe sont les entreprises qui ne sont pas en franchise en base de TVA. Par exemple la majorité des SAS, SARL, ... la collectent mais pas les auto-entrepreneurs (ou micro-entrepreneurs) jusqu'à un certains seuil.</p>
+        <h5 class="text-left mt-6">Utilités</h5>
+        <p class="text-left">
+          Cette calculatrice est utile pour tous ceux qui souhaiteraient émettre une facture manuellement.
+          <br />
+          <br />Certains établissent un prix TTC mais veulent connaître très rapidement le montant net sans la TVA. C'est désormais possible avec cet outil.
+          <br />
+          <br />Il est également possible de vérifier la TVA d'une facture d'achat intracommunautaire.
+          <br />
+          <br />&#8226; Le taux normal de la TVA est fixé à 20 % (art. 278 du code général des impôts), pour la majorité des ventes de biens et des prestations de services : il s'applique à tous les produits ou services pour lesquels aucun autre taux n'est expressément prévu.
+          <br />
+          <br />&#8226; Le taux réduit de 10 % (art. 278 bis, 278 quater, 278 sexies A, 278 septies et art. 279 du CGI) est notamment applicable aux produits agricoles non transformés, au bois de chauffage, aux travaux d'amélioration du logement qui ne bénéficient pas du taux de 5,5%, à certaines prestations de logement et de camping, aux foires et salons, jeux et manèges forains, aux droits d'entrée des musées, zoo, monuments, aux transports de voyageurs, au traitement des déchets, à la restauration.
+          <br />
+          <br />&#8226; Le taux réduit de 5,5 % (art. 278-0 bis, 278-0 bis A, art. 278 sexies du CGI) concerne l'essentiel des produits alimentaires, les produits de protection hygiénique féminine, équipements et services pour handicapés, livres sur tout support, abonnements gaz et électricité, fourniture de chaleur issue d’énergies renouvelables, fourniture de repas dans les cantines scolaires, billeterie de spectacle vivant et de cinéma, certaines importations et livraisons d'œuvres d'art, travaux d’amélioration de la qualité énergétique des logements, logements sociaux ou d'urgence, accession à la propriété.
+          <br />
+          <br />&#8226; Le taux particulier de 2,1 % (art. 281 quater et suivants du CGI) est réservé aux médicaments remboursables par la sécurité sociale, aux ventes d’animaux vivants de boucherie et de charcuterie à des non assujettis, à la redevance télévision, à certains spectacles et aux publications de presse inscrites à la Commission paritaire des publications et agences de presse.
+        </p>
       </v-col>
     </v-row>
   </v-container>

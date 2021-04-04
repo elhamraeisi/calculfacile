@@ -130,6 +130,15 @@
             </v-col>
           </v-row>
         </v-card>
+        <p
+          class="text-left mt-8"
+        >Le dropshipping est une méthode de distribution au détail dans laquelle un magasin ne conserve pas les produits qu'il vend en stock. Au lieu de cela, lorsqu'un magasin vend un produit en utilisant le modèle dropshipping, il achète l'article à un tiers et le fait expédier directement au client. En conséquence, le vendeur n’a pas à gérer le produit directement.</p>
+        <p
+          class="text-left mt-4"
+        >La plus grande différence entre le dropshipping et le modèle de vente au détail standard réside dans le fait que le vendeur ne stocke pas et ne possède pas d'inventaire. Au lieu de cela, le vendeur achète l'inventaire au besoin auprès d'un tiers - généralement un grossiste ou un fabricant - pour exécuter les commandes.</p>
+        <p
+          class="text-left mt-4"
+        >Si vous souhaitez acheter votre résidence principale ou faire un investissement immobilier locatif, vous devez d'abord calculer votre capacité d'emprunt pour estimer quel montant vous pouvez emprunter et donc quel bien vous pouvez potentiellement acheter.</p>
       </v-col>
     </v-row>
   </v-container>

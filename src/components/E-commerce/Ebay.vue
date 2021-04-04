@@ -94,6 +94,22 @@
             </v-col>
           </v-row>
         </v-card>
+        <h5 class="text-left mt-12">REMARQUES</h5>
+        <p class="text-left">
+          &#8226; Pour les enchères avec un prix de réserve, remplacez le prix de départ par le prix de réserve car les frais d'insertion correspondent au prix de réserve et non au prix de départ de l’annonce.
+          <br />&#8226; Le prix de vente des objets doit être de 1 EUR minimum avec le format Achat immédiat.
+          <br />&#8226; Avec le format Achat immédiat, vous ne pouvez pas demander le remboursement de vos frais d'insertion si l'objet n'est pas vendu ou que l'acheteur ne paye pas l'objet.
+          <br />&#8226; Si vous utilisez les annonces multi-quantité, vous ne réglez les frais d'insertion qu'une fois, quel que soit le nombre d'objets similaires mis en vente.
+        </p>
+        <h5 class="text-left mt-10">LES FRAIS DE VENTE EBAY SONT COMPOSÉS DE :</h5>
+        <p class="text-left">
+          &#8226; Frais d’insertion : pour un vendeur particulier (150 annonces/mois maximum au format Prix fixe ou Enchères) ces frais sont facturés lors de la création de l’annonce.
+          <br />&#8226; Commission sur le prix final (8%) : Vous payez cette commission uniquement si votre objet est vendu. C’est un pourcentage du prix total de l’objet (frais de port inclus) payé par l’acheteur.
+          <br />&#8226; Frais PAYPAL (0,35€ + 2,9%) : Uniquement si l’acheteur choisit ce mode de paiement. La commission paypal est prélevée automatiquement lors du paiement.
+        </p>
+        <p
+          class="text-left mt-6"
+        >Les champs “Coût de l’objet” et “Coût de la livraison” sont optionnels et vous permettent de calculer le bénéfice que vous réalisez après avoir vendu et expédié votre objet.</p>
       </v-col>
     </v-row>
   </v-container>
